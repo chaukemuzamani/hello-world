@@ -1,11 +1,11 @@
-// hello world.cpp : This file contains the 'main' function. Program execution begins and ends there.
+﻿// hello world.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    cout << "Hello, World! Привет, Мир" << endl;
     return 0;
 }
 
